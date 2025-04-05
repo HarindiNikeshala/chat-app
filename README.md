@@ -1,0 +1,1 @@
+Make a Full stack chat app using React JS and Firebase. In this chat app, can create an account and chat with your friends. In the chat you can also send the images. and create the authentication using Firebase and store the chat images in Firebase storage. And will store the chat messages on Firestore Database, that send the chat message in Real-time. 
